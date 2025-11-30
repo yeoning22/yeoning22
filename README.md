@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/✔%20KR-한국어-ffffff?style=flat-square&labelColor=2ECC71"/>
   </a>
   <a href="./README.en.md">
-    <img src="https://img.shields.io/badge/☐%20EN-영어-1E40AF?style=flat-squarelabelColor=6E6E6E"/>
+    <img src="https://img.shields.io/badge/☐%20EN-영어-1E40AF?style=flat-square&labelColor=6E6E6E"/>
   </a>
 </p>
 
